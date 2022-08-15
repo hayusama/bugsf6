@@ -1,6 +1,6 @@
 # bugsf6
 
-1.composer install
+1.composer install\n
 2.config mysql database in .env (32 line)
 3.run cli : php bin/console doctrine:database:create
 4.symfony server:start
